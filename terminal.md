@@ -1,0 +1,70 @@
+# Terminal Linux
+
+## Parâmetros para o ls:
+- `-l`
+	visualização extendida, mais informações.
+- `-a`
+	mostra todos os arquivos, inclusive os ocultos
+- `-h`
+	visualização para humanos, muda para Kb, Mb, Gb...
+- `--help`
+	abre um manual sobre o comando.
+- `-R`
+	lista recursivamente uma pasta.
+
+## Parâmetros para mkdir:
+- `-p`
+	ignora os erros e cria uma pasta se ela não existir.
+
+## Parâmetros para rm:
+- `-r`
+	apaga as pastas recursivamente.
+- `-f`
+	força a ação de apagar os arquivos.
+
+## Argumentos:
+1. Comandos do Terminal
+- `$ ls`
+	lista os arquivos presentes na pasta atual.
+- `$ cd`
+	mudar o diretório atual.
+- `$ pwd`
+	retorna o caminho atual completo.
+- `$ man`
+	abre um paginador com o manual do comando.
+- `$ history`
+	traz a lista de comandos utilizados no terminal.
+- `$ !5`
+	repete o comando 5.
+- `$ alias`
+	apelido
+- `$ less`
+	abre um paginador para um arquivo.
+
+2. Comandos para editar arquivo
+- `$ touch nomedoarquivo.txt`
+	cria uma arquivo txt em branco.
+- `$ nano nomedoarquivo.txt`
+	permite editar o arquivo pelo programa nano.
+- `$ cat nomedoarquivo.txt`
+	para ler o arquivo direto no terminal.
+- `$ mkdir`
+	cria uma pasta.
+- `$ rmdir`
+	apagar pasta.
+- `$ rm`
+	apagar arquivos.
+- `$ cp`
+	copia arquivos para outro local.
+- `$ mv`
+	move um arquivo para outro local. Serve pra renomear.
+
+3. Referência global
+- `$ *`
+	referencia um conjunto de caracteres.
+- `$ ?`
+	substitui apenas um caractere.
+- `$ [a-i, z]`
+	referencia faixa de caracteres.
+- `$ {am, ul}`
+	referencia uma sequência de caracteres.
