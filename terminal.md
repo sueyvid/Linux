@@ -23,7 +23,7 @@
 	força a ação de apagar os arquivos.
 
 ## Argumentos:
-1. Comandos do Terminal
+### Comandos do Terminal
 - `$ ls`
 	lista os arquivos presentes na pasta atual.
 - `$ cd`
@@ -41,7 +41,7 @@
 - `$ less`
 	abre um paginador para um arquivo.
 
-2. Comandos para editar arquivo
+### Comandos para editar arquivo
 - `$ touch nomedoarquivo.txt`
 	cria uma arquivo txt em branco.
 - `$ nano nomedoarquivo.txt`
@@ -59,7 +59,7 @@
 - `$ mv`
 	move um arquivo para outro local. Serve pra renomear.
 
-3. Referência global
+### Referência global
 - `$ *`
 	referencia um conjunto de caracteres.
 - `$ ?`
